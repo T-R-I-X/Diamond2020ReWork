@@ -1,0 +1,27 @@
+{
+	"name": "diamond",
+	"version": "1.0.0",
+	"description": "Diamond bot!",
+	"main": "bot.js",
+	"scripts": {
+		"test": "node bot",
+		"start": "node Diamondbot"
+	},
+	"author": "developer_Trix",
+	"license": "GPL-3.0",
+	"dependencies": {
+		"chalk": "^4.1.0",
+		"colors": "^1.4.0",
+		"common-tags": "^1.8.0",
+		"dateformat": "^3.0.3",
+		"discord.js": "^11.3.2",
+		"discord.js-commando": "^0.10.0",
+		"fs": "0.0.1-security",
+		"mkdirp": "^1.0.4",
+		"moment": "^2.26.0",
+		"path": "^0.12.7",
+		"quick.db": "^7.1.1",
+		"sqlite": "^2.9.2",
+		"winston": "^3.2.1"
+	}
+}
